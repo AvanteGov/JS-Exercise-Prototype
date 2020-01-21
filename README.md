@@ -12,7 +12,7 @@ In order to complete these tasks you will need your newly aquired knowledge of c
 Find the file `index.js` and complete tasks 1, 2 and 3 until all of your tests pass.
 There is an additional task 4 which requires written explanations and has no tests.
 
-If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. __Remember to formulate your help request in a professional manner__ - like you would at the job - by including error messages, screenshots, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
+If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. __Remember to formulate your help request in a professional manner__ - like you would at the job - by including error messages, screenshot, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
 
 ## Get Started
 
