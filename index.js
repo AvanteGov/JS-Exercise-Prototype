@@ -109,10 +109,10 @@ Baby.prototype.play = function (favoriteToy){
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. global binding - where this keyword refrences the gloabl window of the doc
+  2. implicit binding - when this references the object it is contained within
+  3. new binding - when this references a object created by a constructor in a constructor
+  4. explicit binding - when this references the object it is bound to in the inline statement 
 */
 
 
